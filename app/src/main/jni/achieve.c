@@ -31,7 +31,6 @@ JNIEXPORT void JNICALL Java_com_fmblzf_androidndk_ndk_AndroidNDK_startActivity
  */
 JNIEXPORT void JNICALL Java_com_fmblzf_androidndk_ndk_AndroidNDK_sendBroadCast
 (JNIEnv *env, jobject obj, jstring actionName){
-
 }
 
 /*
